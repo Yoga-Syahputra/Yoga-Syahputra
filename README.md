@@ -1,4 +1,4 @@
-### Hi everyone 👋
+### Hi everyone, let's collab 👋
 
 <!--
 **Yoga-Syahputra/Yoga-Syahputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
