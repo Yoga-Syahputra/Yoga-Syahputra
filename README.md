@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yoga Syahputra</h1>
+<img src=/.Banner.jpeg" alt="Profile Banner" />
+
 <h3 align="center">An aspiring CompSci student from Indonesia 🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoga-syahputra&label=Profile%20views&color=0e75b6&style=flat" alt="yoga-syahputra" /> </p>
