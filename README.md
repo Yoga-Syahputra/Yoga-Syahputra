@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoga Syahputra</h1>
-<h3 align="center">An aspiring Compsci student from Indonesia 🇮🇩</h3>
+<h3 align="center">An aspiring CompSci student from Indonesia 🇮🇩</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoga-syahputra&label=Profile%20views&color=0e75b6&style=flat" alt="yoga-syahputra" /> </p>
 
@@ -18,7 +18,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga-syahputra&show_icons=true&locale=en" alt="yoga-syahputra" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-syahputra&" alt="yoga-syahputra" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-syahputra&" alt="yoga-syahputra" /></p>
+
+
+
+
 
 <!--
 ### Hi everyone, let's collab 👋
