@@ -1,5 +1,11 @@
 ### Hi everyone, let's collab 👋
+<!--Readme stats-->
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoga-Syahputra)](https://github.com/Yoga-Syahputra/github-readme-stats)
+
+<!--Dev Jokes-->
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
 <!--
 **Yoga-Syahputra/Yoga-Syahputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
