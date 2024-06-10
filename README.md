@@ -1,5 +1,4 @@
 ### Hi everyone, let's collab 👋
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Yoga-Syahputra.visitor-badge&left_color=red&right_color=green) 
  
 <!--
 **Yoga-Syahputra/Yoga-Syahputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
