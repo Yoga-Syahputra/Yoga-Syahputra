@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yoga Syahputra</h1>
-<img src=/.Banner.jpeg" alt="Profile Banner" />
+<img src="./Banner.jpeg" alt="Profile Banner" />
 
 <h3 align="center">An aspiring CompSci student from Indonesia 🇮🇩</h3>
 
