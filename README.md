@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yoga Syahputra</h1>
 <h3 align="center">An aspiring Compsci student from Indonesia 🇮🇩</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yoga-syahpyrea&label=Profile%20views&color=0e75b6&style=flat" alt="yoga-syahpyrea" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yoga-syahpyrea&label=Profile%20views&color=0e75b6&style=flat" alt="yoga-syahputra" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoga-syahpyrea" alt="yoga-syahpyrea" /></a> </p>
 
