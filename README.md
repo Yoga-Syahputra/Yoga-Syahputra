@@ -1,6 +1,6 @@
 ### Hi everyone, let's collab 👋
 <!--Readme stats-->
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoga-Syahputra)](https://github.com/Yoga-Syahputra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yoga-Syahputra)](https://github.com/Yoga-Syahputra/github-readme-stats)  [![GitHub Streak](https://streak-stats.demolab.com/?user=Yoga-Syahputra)](https://git.io/streak-stats)
 
 <!--Dev Jokes-->
 <!-- HTML -->
