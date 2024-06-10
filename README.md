@@ -16,9 +16,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoga-syahputra&show_icons=true&locale=en&layout=compact" alt="yoga-syahputra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoga-syahputra&show_icons=true&locale=en" alt="yoga-syahputra" /></p>
+<p>&nbsp;<img align="cebter" src="https://github-readme-stats.vercel.app/api?username=yoga-syahputra&show_icons=true&locale=en" alt="yoga-syahputra" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=yoga-syahputra&" alt="yoga-syahputra" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com?user=Yoga-Syahputra&theme=transparent&border_radius=4.7&mode=weekly&card_width=410&card_height=192" alt="yoga-syahputra" /></p>
 
 
 
