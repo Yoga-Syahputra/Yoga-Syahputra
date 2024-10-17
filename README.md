@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoga-syahputra&label=Profile%20views&color=0e75b6&style=flat" alt="yoga-syahputra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoga-syahputra&theme=onestar&column=3&margin-w=15&margin-h=10" alt="yoga-syahputra" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yoga-syahputra&theme=onestar&column=3&margin-w=30&margin-h=10" alt="yoga-syahputra" /></a> </p>
 
 ---
 
