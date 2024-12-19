@@ -98,7 +98,7 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Yoga-Syahputra&theme=transparent&border_radius=4.7&mode=weekly&card_width=410&card_height=192" alt="GitHub Streak" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Yoga-Syahputra&theme=git-dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
 </p>
 
 
