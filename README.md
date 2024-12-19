@@ -98,9 +98,20 @@
 
 ### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Yoga-Syahputra&theme=git-dark&hide_border=true&short_numbers=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Yoga-Syahputra&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="GitHub Streak"  />
 </p>
 
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoga-Syahputra&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+---
+
+<img src="https://raw.githubusercontent.com/Yoga-Syahputra/Yoga-Syahputra/output/snake.svg" alt="Snake animation" />
 
 <!--
 ### Hi everyone, let's collab 👋
