@@ -109,10 +109,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yoga-Syahputra&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
----
-
-<img src="https://raw.githubusercontent.com/Yoga-Syahputra/Yoga-Syahputra/output/snake.svg" alt="Snake animation" />
-
 <!--
 ### Hi everyone, let's collab 👋
 <!--Readme stats-->
